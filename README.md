@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m interested in studying math
-- 👯 I’m working on my future
-- 🤔 My favourite hobby is listening music.
+- 🌱 I’m interested in eductaional software development
+- 👯 I like everything logical
+- 🤔 My favourite sport is swiming.
 
 <!--
 **06zoeyyy/06zoeyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
