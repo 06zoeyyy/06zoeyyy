@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m interested in eductaional software development
+- 🌱 I’m interested in Trustworthy AI and eductaional software.
 - 👯 I like everything logical
-- 🤔 My favourite sport is swiming.
 
 <!--
 **06zoeyyy/06zoeyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
